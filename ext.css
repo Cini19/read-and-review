@@ -1,0 +1,91 @@
+table.head{
+	color:#51481c;
+	background-color:#e1c988;
+}
+th.i{
+	padding-left:30px;
+	padding-right:30px; 
+	font:23px "URW Bookman L";
+	border-right-width:thin;
+	border-right-style:solid;
+	border-right-color:#51481c;
+	color:#51481c;
+}
+.n{
+	text-decoration:none;
+	color:#51481c;
+	font-size:15px;
+}
+input.s{
+	background-color:#e1c988;
+	font:30px "URW Bookman L";
+	border:none;
+}
+input.t{
+	font-size:23px;
+	background-color:#faedae;
+	color:#51481c;
+}
+th.h{
+	background-color:#ebdfa4;
+	color:#51481c;
+	font-size:23px;
+}
+a{
+	color:#51481c;
+	font:20px "URW Bookman L";
+	text-decoration:none;
+}
+h2{
+	color:#51481c;
+}
+h1{
+	color:#51481c;
+	background-color:#ebdfa4;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+td.s{
+	padding-left:150px;
+	padding-right:150px;
+	padding-top:20px;
+	padding-bottom:50px;
+	border-bottom-style:solid;
+	border-bottom-width:thin;
+	border-bottom-color:#51481c
+}
+input.txt{
+	background-color:#faedae;
+	font-size:23px;
+	color:#51481c;
+}
+input.sh{
+	font-size:23px;
+	color:#51481c;
+	background-color:#faedae;
+	border-color:#e1c988;
+}
+p{
+	color:#51481c;
+}
+td.c{
+	background-color:#f9fdc3;
+}
+
+table.b{
+	border-style:solid;
+	border-width:thin;
+	border-color:#51481c;
+}
+.cmt{
+	background-color:#f9fdc3;
+	color:#51481c;
+	font-size:20px;
+	border-color:#51481c;
+	padding:20px;
+}
+.a{
+	color:#51481c;
+	font:20px "URW Bookman L";
+	padding-left:50px;	
+}
